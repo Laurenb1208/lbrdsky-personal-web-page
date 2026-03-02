@@ -44,3 +44,7 @@ td {
   padding: 10px;
   text-align: center;
 }
+.highlight {
+  color: blue;
+  font-weight: bold;
+}
