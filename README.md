@@ -1,3 +1,4 @@
 # lbrdsky-personal-web-page
 
-### Digital Product Management Module 7: Personal Web Page
+## Digital Product Management
+### Homework: Module 7 Personal Web Page
